@@ -1,16 +1,2 @@
-# viva_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230411_214030](https://user-images.githubusercontent.com/121868302/231225415-8b98c039-e116-4651-a3bf-746961ee3811.png)
+![Screenshot_20230411_214103](https://user-images.githubusercontent.com/121868302/231225461-eae31ddf-f959-447e-918f-cc93e7f431bf.png)
